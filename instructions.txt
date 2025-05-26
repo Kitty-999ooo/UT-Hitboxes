@@ -1,0 +1,3 @@
+1. Install the Practice mod 1.7.2 (if you haven't already) https://www.speedrun.com/undertale/resources/nw7qn // https://github.com/fixylol/UndertalePracticeMod
+2. patch the practice mod with the patch file you chose (same patch, just different formats)
+3(optional). move splash.png to the folder with undertale.exe (Will replace the old splashscreen!)
