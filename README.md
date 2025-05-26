@@ -1,5 +1,5 @@
 # UT-Hitboxes
-visualizes the undertale collision boxes
+
 ------------------------------Hitboxes Mod------------------------------
 This is the 1.5 patch!!
 I have found a few more bugs that are being patched out.
