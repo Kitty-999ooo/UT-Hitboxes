@@ -1,8 +1,11 @@
 # UT-Hitboxes
 
 ------------------------------Hitboxes Mod------------------------------
+
 This is the 1.5 patch!!
+
 I have found a few more bugs that are being patched out.
+
 NOTE: this will NOT be updated along with Clover's Practice Mod, but I am working on to make it more compatable with other versions of undertale
 
 ------------------------------ Keybinds(that I added)------------------------------
