@@ -21,4 +21,6 @@ Pan hitbox is cut out in the green soul phase of flowey fight
 
 All code that was changed/added by me can be downloaded
 
+I am working on another version, completly revamped, so it may take a while to come out (this project is not abandoned!)
+
 If you find any bugs, D.M. me on discord (@kitty_999ooo)
